@@ -2,7 +2,6 @@
 
 {
   'defines': [
-    'SQLITE_DQS=0',
     'SQLITE_LIKE_DOESNT_MATCH_BLOBS',
     'SQLITE_THREADSAFE=2',
     'SQLITE_USE_URI=0',
